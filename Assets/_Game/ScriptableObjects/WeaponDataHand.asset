@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11c684b5fe95cee4c95122728346a290, type: 3}
+  m_Name: WeaponDataHand
+  m_EditorClassIdentifier: 
+  weaponHand:
+  - {fileID: 6428476964935941783, guid: bfd250347a196b5468599c461a5c80a6, type: 3}
+  - {fileID: 959764653639375171, guid: a6bfeee8477396441ba8691c4a3bc308, type: 3}
+  - {fileID: 8674442480801001972, guid: 1a37f08924ea9c34eb34e584984c0456, type: 3}
+  - {fileID: 7905701267706463046, guid: 0e9fc633b43aa0b41a3ee4251645cac7, type: 3}
+  - {fileID: 2937354610738351309, guid: e1638b35061cda141b11adb242bb77f6, type: 3}
+  - {fileID: 297129666081437213, guid: ba3b70e89467d5f4885d1da2b9579069, type: 3}
+  - {fileID: 6357086385223653437, guid: 07e68ce592aeb37468af40bdcf9381a0, type: 3}
+  - {fileID: 2887920865655993311, guid: 1ac4bd87b1290ea46b7d15a4ccc1c6ed, type: 3}
+  - {fileID: 6507361781082539180, guid: c952b77018db76f469ca6ad9881c9e8f, type: 3}
