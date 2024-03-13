@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1078309d799a014b9f20daca6981c56, type: 3}
+  m_Name: WeaponSO
+  m_EditorClassIdentifier: 
+  weaponItems:
+  - name: 'Basic Blade '
+    type: 2
+    cost: 100
+  - name: Axe  Blade
+    type: 3
+    cost: 200
+  - name: Hammer
+    type: 4
+    cost: 300
+  - name: Chuppachup
+    type: 5
+    cost: 400
+  - name: 'Cream '
+    type: 6
+    cost: 500
+  - name: Cicle Candy
+    type: 7
+    cost: 600
+  - name: Bommerang
+    type: 8
+    cost: 700
+  - name: Zeus
+    type: 9
+    cost: 700
